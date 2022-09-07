@@ -1,0 +1,26 @@
+npx create-expo-app first-demo 
+Need to install the following packages:
+  create-expo-app
+Ok to proceed? (y) y
+✔ Downloaded and extracted project files.
+✔ Installed JavaScript dependencies.
+
+✅ Your project is ready!
+
+To run your project, navigate to the directory and run one of the following npm commands.
+
+- cd first-demo
+- npm run android
+- npm run ios
+- npm run web
+
+
+```sh
+npx expo install expo-dev-client
+npm fund 
+yarn add expo-dev-client  
+npm run ios 
+yarn ios
+yarn expo run:ios
+yarn start
+```
