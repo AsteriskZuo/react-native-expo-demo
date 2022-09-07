@@ -30,8 +30,8 @@ yarn start
 
 # References
 
-[Development builds](https://docs.expo.dev/development/getting-started/)
-[Development builds](https://docs.expo.dev/development/introduction/)
-[Adding custom native code](https://docs.expo.dev/workflow/customizing/)
+- [Development builds](https://docs.expo.dev/development/getting-started/)
+- [Development builds](https://docs.expo.dev/development/introduction/)
+- [Adding custom native code](https://docs.expo.dev/workflow/customizing/)
 
 # Screenshot
